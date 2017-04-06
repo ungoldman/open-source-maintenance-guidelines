@@ -225,4 +225,4 @@ Do yourself a favor, make life easier!
 
 ---
 
-> This article was originally posted here: ungoldman.com/articles/open-source-maintenance-guidelines/
+> This article was originally posted here: http://ungoldman.com/articles/open-source-maintenance-guidelines/
