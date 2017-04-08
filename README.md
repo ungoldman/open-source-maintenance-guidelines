@@ -149,7 +149,7 @@ MAJOR.MINOR.PATCH
 
 > There will be mistakes
 
-If you have **tests**, it's easier for you to vet and accept contributions from contributors and it's easier to keep a project healthy and functional as it grows. Testing can mean just using a linter like [`standard`](https://github.com/feross/standard) to catch syntax errors and avoid style arguments, or going further and writing [unit tests](https://en.wikipedia.org/wiki/Unit_testing), [integration tests](https://en.wikipedia.org/wiki/Integration_testing), or whichever flavor of testing makes sense for your project.
+If you have **tests**, it's easier for you to vet and accept contributions from contributors and it's easier to keep a project healthy and functional as it grows. Testing can mean just using a linter like [`standard`](https://github.com/feross/standard) to catch syntax errors and avoid style arguments, or going further and writing [unit tests](https://en.wikipedia.org/wiki/Unit_testing), [integration tests](https://en.wikipedia.org/wiki/Integration_testing), or whichever flavor of testing makes sense for your project. If you use a linter or a style checker alongside full tests, make sure everything's run at the same time. This helps contributors catch violations faster and eases Pull Request reviews.
 
 You can go nuts and add a massive amount of tests at all levels and work yourself to death to achieve 100% test coverage, but in my experience it's best to not go nuts. Keeping projects small and focused and using tests judiciously to ensure public methods are functional and work as promised is usually adequate, at least when a project is starting out.
 
