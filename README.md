@@ -69,6 +69,7 @@ If the project has a large or complex API, it may be a good idea to keep anythin
 - [Art of README](https://github.com/noffle/art-of-readme)
 - [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - [common-readme project](https://github.com/noffle/common-readme)
+- [standard-readme](https://github.com/RichardLitt/standard-readme)
 
 ## <a href="#documentation" name="documentation">Documentation</a>
 
@@ -114,6 +115,7 @@ If you have a good **change log**, it's easier for users to know what's going on
 - [Keep a CHANGELOG](http://keepachangelog.com/)
 - [module-init change log](https://github.com/ungoldman/module-init/blob/master/CHANGELOG.md) (simple example)
 - [Node.js change log](https://github.com/nodejs/node/blob/master/CHANGELOG.md) (complex example)
+- [changelog-init](https://github.com/hypermodules/changelog-init)
 
 ## <a href="#tagged-releases" name="tagged-releases">Tagged Releases</a>
 
@@ -164,7 +166,7 @@ You can go nuts and add a massive amount of tests at all levels and work yoursel
 
 If you have **contributing guidelines**, it's easier for people to participate in the project and make valuable contributions. A good set of contributing guidelines helps set the tone, frame the discussion, set expectations and ease the path towards contributors and collaborators joining the project. Keeping a `CONTRIBUTING.md` file at the root of your project and linking to it from `README.md` makes contributing to your project a lot more straightforward.
 
-##### Further reading
+### Further reading
 
 - [Contributing Guidelines](https://github.com/blog/1184-contributing-guidelines)
 - [OPEN Open Source Project](http://openopensource.org/)
