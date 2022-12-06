@@ -221,8 +221,6 @@ Lots of other people have made great maintenance modules too. Max Ogden's [`main
 
 If you know of any other projects that are making the above processes easier or know of any other resources or links to further reading that should be added to the above sections, please [let me know](https://github.com/ungoldman/open-source-maintenance-guidelines/issues)!
 
-![](https://camo.githubusercontent.com/b99f27dae004731e81b47fe77bd2fcf30c063dc1/68747470733a2f2f33382e6d656469612e74756d626c722e636f6d2f37626636353834613561323734666538336162346136326361663432653638302f74756d626c725f6d756c6674753649346431716173667a396f315f3530302e676966)
-
 Do yourself a favor, make life easier!
 
 ---
