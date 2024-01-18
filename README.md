@@ -1,8 +1,10 @@
 # Open Source Maintenance Guidelines
 
-> How to be a Good Open Source Shepherd
+> First published Jan 12, 2015. Last revised Apr 6, 2017.
 
 ![](http://www.theshepherdsdog.com/LexAndBookII2.jpg)
+
+## How to be a Good Open Source Shepherd
 
 Creating and maintaining an open source project can be a lot of work. Making sure a project is accessible to new users, open to contributions, and maintainable by the project owner is not a trivial task. In my experience the following details make a huge difference. They help users, developers, and maintainers work better (i.e. work less).
 
