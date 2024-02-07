@@ -2,7 +2,7 @@
 
 > First published Jan 12, 2015. Last revised Apr 6, 2017.
 
-![](http://www.theshepherdsdog.com/LexAndBookII2.jpg)
+![a studious dog](dog.jpg)
 
 ## How to be a Good Open Source Shepherd
 
